@@ -5,6 +5,7 @@ public class classesandobjects4 {
          n1.display();
           n1.setvalue();
 n1.display();
+
     }
 }
 
